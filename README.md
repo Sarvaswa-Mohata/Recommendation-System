@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="streamberry">Streamberry</h1>
 <p>Welcome to <strong>Streamberry</strong>, a content-based movie recommendation system designed to help you discover movies tailored to your tastes. This project leverages TF-IDF vectorization and cosine similarity to recommend movies based on your preferences.</p>
 <h2 id="features">Features</h2>
@@ -33,8 +28,14 @@
 </ol>
 <h2 id="usage">Usage</h2>
 <ol>
-<li><strong>Select a Movie</strong>: Choose a movie from the dropdown list.</li>
-<li><strong>Get Recommendations</strong>: Click on the ‘Get Recommendations’ button to see a list of similar movies.</li>
+<li><strong>Select a Movie</strong>: Choose a movie from the dropdown list.</li><br>
+  
+  ![image](https://github.com/Sarvaswa-Mohata/Recommendation-System/assets/99800509/6bdde22e-2c89-4be3-8345-122ba3f12f3a)
+
+<li><strong>Get Recommendations</strong>: Click on the ‘Get Recommendations’ button to see a list of similar movies.</li><br>
+
+![image](https://github.com/Sarvaswa-Mohata/Recommendation-System/assets/99800509/3dd2629b-230a-44a0-addc-b43fd3f026d6)
+
 </ol>
 <h2 id="project-structure">Project Structure</h2>
 <ul>
